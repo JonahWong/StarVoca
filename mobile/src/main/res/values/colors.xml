@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c1a6</color>
+    <color name="colorPrimaryDark">#00af9c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_material_light">#00af9c</color>
+    <color name="primary_material_light_1">#00c1a6</color>
+    <color name="primary_dark_material_light">#00af9c</color>
+    <color name="tb_bg">#2dbe60</color>
+
+    <color name="error_color">#FF0000</color>
+    <color name="tb_dark_green">#005E37</color>
+</resources>
